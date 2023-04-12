@@ -2,6 +2,11 @@ package com.careerit.jfs.cj.day1;
 
 public class Greetings {
     public static void main(String[] args) {
-        System.out.println("Welcome to Java WOrld");
+
+        String username = "User";
+        if(args.length > 0) {
+            username = args[0];
+        }
+        System.out.println("Hi" + username + " Welcome to Java WOrld");
     }
 }
