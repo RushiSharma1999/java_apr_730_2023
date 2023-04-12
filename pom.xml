@@ -6,9 +6,12 @@
 
     <groupId>com.careerit</groupId>
     <artifactId>jfs</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>jfs_730_apr_2023</name>
+    <description>Learning Java from CareerIT</description>
 
     <properties>
+        <java.version>20</java.version>
         <maven.compiler.source>20</maven.compiler.source>
         <maven.compiler.target>20</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
