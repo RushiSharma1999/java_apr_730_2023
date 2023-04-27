@@ -1,0 +1,13 @@
+MAR2023001,Nirmala,9,8,9,8.5,9.5
+MAR2023005,Anush,9,8.5,9.5,8.5,9.5
+MAR2023006,Sai,3,8,6,8.5,9
+MAR2023007,Nirmala,7,8,7.5,8.5,9.5
+
+Student result is PASS if he/she/they score in subject more > 5
+46-50 A
+36-45 B
+25-35 C
+<25 "FAIL"
+If student fails any subject the grade "FAIL"
+
+MAR2023001,Nirmala,9,8,9,8.5,9.5,PASS,"A"

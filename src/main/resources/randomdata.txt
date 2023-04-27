@@ -1,0 +1,3 @@
+I am learning java for the first time
+It is an object-oriented programming language
+It is one of the languages with the most jobs in the market
